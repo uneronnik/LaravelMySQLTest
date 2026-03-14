@@ -3,10 +3,10 @@
   
 php artisan sync:all - всё сразу  
   
-php artisan sync:incomes   - поставки  
-php artisan sync:stocks    - остатки
-php artisan sync:orders    - заказы
-php artisan sync:sales     - продажи  
+php artisan sync:incomes   - поставки   
+php artisan sync:stocks    - остатки  
+php artisan sync:orders    - заказы  
+php artisan sync:sales     - продажи   
 
 ## Доступы к БД  
 
